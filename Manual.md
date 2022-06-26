@@ -1,31 +1,25 @@
 **Manual de Usuario**
+***
  
-> *El siguiente software consiste en el gestionamiento de toda la información de la nueva Biblioteca nacional BINAES, dicha aplicación cuenta con diferentes apartados en los cuales los usuarios puedan realizar búsquedas del material bibliográfico y multimedia con el cual cuenta  BINAES*
- 
+*El siguiente software consiste en el gestionamiento de toda la información de la nueva Biblioteca nacional BINAES, dicha aplicación cuenta con diferentes apartados en los cuales los usuarios puedan realizar búsquedas del material bibliográfico y multimedia con el cual cuenta  BINAES*
  
 ![Markdown](Inicio1.png)
 
 
 > *Para añadir o editar un evento diríjase a "Eventos". Ahí encontrará cuadros que le solicitan información. Primero se coloca el Título del evento y se añade una imagen. Luego se selecciona la hora y fecha de inicio y finalización del evento. En acto siguiente agregue el o los objetivos del evento y la cantidad de personas que podrán asistir. Al haber llenado todo solo se guardan los cambios. Y de haber sido editar o eliminar evento solo se busca en el cuadro con todos los eventos guardados y ahi se efectúa como sea requerido.*
 
- 
 ![Markdown](Eventos.png)
-
- 
 
 > *Para añadir o editar un usuario, se dirige al panel "Usuarios" ahí se le pide que coloque su nombre, una imagen, su ocupación, institución, dirección, un teléfono y su correo electrónico. Al haber llenado todos los campos y estar seguro de todos los datos ingresados, guarda su usuario. Y si en algún momento quiere realizar cambios en su usuario solo se dirige a editar, realiza los cambios y guarda.*
  
  
- 
 ![Markdown](Usuario.png)
 
- 
 
 > *Cuando desee realizar una búsqueda de algún artículo, se dirige al panel de Búsqueda y digita el artículo del cúal desea conocer, presiona la lupa para realizar las búsqueda e inmediatamente le mostrará las posibles opciones a su solicitud.*
 
 ![Markdown](Busquedas.png)
 
- 
 
 > *Para agregar un artículo a una colección en específico, se dirige al panel "Administrar" "Colecciones" y ahí se podrá editar o agregar una colección. Guardamos los cambios realizados.*
 
