@@ -34,7 +34,7 @@
 
 > *Si se desea editar o agregar un ejemplar nuevo solo se dirige al panel "Administrar" "Ejemplares" agregamos el nombre, una fotografía, definir a qué colección pertenece, su autor, fecha de publicación, editorial, formato del ejemplar, el idioma en que se encuentra, agregar unas palabras claves para que su búsqueda se vuelva más rápida y ubicar si se encuentra disponible o no. Guardamos cambios.*
 
-![Markdown](Ejemplare.png)
+![Markdown](Ejemplar.png)
 
  
 > *Para realizar un préstamo, dirígete al panel "Administrar" "Préstamos" se selecciona el ejemplar que se desea prestar, se agrega su nombre de usuario para estar registrado, selecciona el día y la hora de préstamo y de la devolución. Guardar cambios.*
