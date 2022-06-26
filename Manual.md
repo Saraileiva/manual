@@ -52,4 +52,4 @@
  
 | Posible Error    |              Cuadro de Dialogo              |
 | ---------------- | ------------------------------------------- |
-| ddsdsdd          | ![Markdown](Reserva.png)|
+| Si se desea salir, click en "SI"         | ![Markdown](Salirdelprograma.png)|
