@@ -5,7 +5,7 @@
 
 <br/>
 
-> *Cuando desee realizar una búsqueda de algún artículo, se dirige al panel de Búsqueda y digita el artículo del cúal desea conocer, presiona la lupa para realizar las búsqueda e inmediatamente le mostrará las posibles opciones a su solicitud.*
+> *Pantalla de inicio, se observa el nombre la de biblioteca y un reloj. Tomando en cuenta que su diseño es desplegable y muestra los diferentes paneles a los cuales se puede acceder*
 <br/>
 
 <center><img src="Inicio1.png" alt="Inicio1" width="350"/></center>
